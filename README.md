@@ -1,4 +1,8 @@
-### Hi there 👋
+### Jikoshoukai 👋
+
+Understand Chinese / Japanese / English.
+
+Love JavaScript.
 
 <!--
 **toyobayashi/toyobayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
