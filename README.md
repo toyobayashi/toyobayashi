@@ -4,6 +4,8 @@ Understand Chinese / Japanese / English.
 
 Love JavaScript.
 
+![](https://visitor-badge.glitch.me/badge?page_id=toyobayashi%2Ftoyobabayashi%2FREADME.md)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyobayashi&hide=c&card_width=275&theme=vue-dark" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=toyobayashi&count_private=true&show_icons=true&line_height=33&include_all_commits=true&theme=vue-dark" />
 
 <!--
