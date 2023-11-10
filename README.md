@@ -1,8 +1,9 @@
-### Jikoshoukai 👋
+### Self Introduction
 
-Understand Chinese / Japanese / English.
+I'm Chinese, understand Japanese and English, love JavaScript.
 
-Love JavaScript.
+- I'm currently maintaining [emnapi](https://github.com/toyobayashi/emnapi), Node-API implementation for wasm.
+- I'm currently learning Rust 🦀.
 
 [![](https://toyobayashi-visitor.vercel.app/api/visitor?uid=toyobayashi%2Ftoyobabayashi%2FREADME.md)](https://github.com/toyobayashi/visitor)
 
