@@ -1,6 +1,6 @@
 ### Self Introduction
 
-I'm Chinese, understand Japanese and English, love JavaScript.
+- Language: 🇨🇳 🇺🇸 🇯🇵
 
 - I'm currently maintaining [emnapi](https://github.com/toyobayashi/emnapi), Node-API implementation for wasm.
 - I'm currently learning Rust 🦀.
